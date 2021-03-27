@@ -1,0 +1,8 @@
+#This is from github
+print("Hello from Github")
+
+name = "abid"
+version ="Rstudi--inwriting"
+
+print(name)
+print("these lines has been written in RStudio")
