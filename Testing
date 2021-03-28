@@ -1,8 +1,11 @@
 #This is from github
 print("Hello from Github")
 
+<<<<<<< HEAD
 name = "abid"
 version ="Rstudi--inwriting"
 
 print(name)
 print("these lines has been written in RStudio")
+=======
+>>>>>>> c72c0aa79eae893952f6276c419c1c36ec2975da
